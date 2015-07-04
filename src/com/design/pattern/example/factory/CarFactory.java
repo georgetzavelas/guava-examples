@@ -7,8 +7,8 @@ package com.design.pattern.example.factory;
  * Usage: Car myCar = CarFactory.buildCar(CarType.SMALL);
  */
 public class CarFactory {
-    public static Car buildCar(CarType model) {
-        Car car = null;
+    public static ICar buildCar(CarType model) {
+        ICar car = null;
         switch (model) {
             case SMALL:
                 car = new SmallCar();
