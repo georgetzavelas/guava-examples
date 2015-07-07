@@ -1,4 +1,4 @@
-package com.design.pattern.example.decorator;
+package com.design.pattern.structural.decorator;
 
 /**
  * Concreate class that adds new functionality

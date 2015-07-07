@@ -1,4 +1,4 @@
-package com.design.pattern.example.factory;
+package com.design.pattern.creational.factory;
 
 public enum CarType {
     SMALL, SEDAN, LUXURY

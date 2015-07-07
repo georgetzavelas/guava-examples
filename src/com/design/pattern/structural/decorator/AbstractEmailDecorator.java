@@ -1,4 +1,4 @@
-package com.design.pattern.example.decorator;
+package com.design.pattern.structural.decorator;
 
 /**
  *  The decorator pattern (also known as Wrapper) is a design pattern that allows behaviour

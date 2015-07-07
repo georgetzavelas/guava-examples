@@ -1,4 +1,4 @@
-package com.design.pattern.example.factory;
+package com.design.pattern.creational.factory;
 
 /**
  *  The factory or factory method design pattern is a creational pattern which uses factory methods to deal

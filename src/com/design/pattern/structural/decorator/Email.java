@@ -1,4 +1,4 @@
-package com.design.pattern.example.decorator;
+package com.design.pattern.structural.decorator;
 
 public class Email implements IEmail {
     private String content;

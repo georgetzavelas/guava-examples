@@ -1,4 +1,4 @@
-package com.design.pattern.example;
+package com.design.pattern.creational.singleton;
 
 /**
  * The singleton pattern is a design pattern that restricts the instantiation of a class to one object.
