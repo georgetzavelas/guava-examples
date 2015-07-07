@@ -1,10 +1,5 @@
 package com.design.pattern.creational.singleton;
 
-/**
- * The singleton pattern is a design pattern that restricts the instantiation of a class to one object.
- *
- * Usage: Singleton singleton = Singleton.getInstance();
- */
 public class Singleton {
     // Private constructor prevents instantiation from other classes
     private Singleton() {
@@ -18,7 +13,7 @@ public class Singleton {
         private static final Singleton INSTANCE = new Singleton();
     }
 
-    public Singleton getInstance() {
+    public static Singleton getInstance() {
         return SingletonHolder.INSTANCE;
     }
 }

@@ -1,0 +1,26 @@
+
+    1. Creating an object by specifying a class explicitly:
+        Abstract Factory, Factory Method, Prototype
+
+    2. Dependence on specific operations:
+        Chain of Responsibility, Command
+
+    3. Dependence on hardware and software platform:
+        Abstract Factory, Bridge
+
+    4. Dependence on object representatives or implementations:
+        Abstract Factory, Bridge, Memento, Proxy
+
+    5. Algorithmic dependencies:
+        Builder, Iterator, Strategy, Template Method, Visitor
+
+    6. Tight coupling:
+        Abstract Factory, Bridge, Chain of Responsibility, Command, Facade, Mediator, Observer
+
+    7. Extending functionality by subclassing:
+        Bridge, Chain or Responsibility, Composite, Decorator, Observer, Strategy
+
+    8. Inability to alter classes conveniently:
+        Adapter, Decorator, Visitor
+
+
